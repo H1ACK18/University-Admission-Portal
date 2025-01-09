@@ -1,4 +1,3 @@
-# University-Admission-Portal
 <!DOCTYPE html>
 <html lang="en">
 <head>
